@@ -161,7 +161,7 @@ flowchart TD
 <summary><b>1. Clone and install</b></summary>
 
 ```bash
-git clone https://github.com/Bibimbap67/eventify.git
+git clone https://github.com/Bibimbap101/eventify.git
 cd eventify
 npm install
 npm --prefix server install
